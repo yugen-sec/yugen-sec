@@ -11,7 +11,7 @@ I am a network security student interested in learning and exploring the fields 
 
 - 🌱 I’m currently learning cloud computing, web development, basic penetration testing.
 
-- 🤔 I’m looking for help with Python aynchronous programming.
+- 🤔 I’m looking for help with Python asynchronous programming.
 
 - 📫 Find me on Twitter @BIT_R0nIn 
 
