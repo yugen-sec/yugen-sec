@@ -7,9 +7,9 @@ You will find almost all the stuff I work on here.
 
 I am a network security student interested in learning and exploring the fields of penetration testing (network and application), red teaming, and exploit development. 
 
-- 🔭 I’m currently working on creating my own website, Python projects, and Azure certifications.
+- 🔭 I’m currently working on creating my own website, Python projects, and AWS SAA certifications.
 
-- 🌱 I’m currently learning cloud computing, web development, basic penetration testing.
+- 🌱 I’m currently learning penetration testing, cloud security, and the nitty-gritty stuff of operating systems.
 
 - 🤔 I’m looking for help with Python asynchronous programming.
 
