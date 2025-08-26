@@ -9,7 +9,7 @@ I am a cybersecurity enthusiast and you will find almost all the stuff I work on
 
 - 🌱 Planning to deepen my knowledge on offensive security to improve defensive skills.
 
-- 📫 Find me on Twitter @BIT_R0nIn 
+- 📫 Find me on Twitter @bit_ronin_ 
 
 - ⚡ Hobbies include reading (sci-fi and philosophy) and watching anime.
 
